@@ -90,3 +90,7 @@ def main():
     
   else:
     print("\n BAD CHOICE:")
+
+if __name__=='__main__':
+  main()
+
